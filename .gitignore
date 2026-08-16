@@ -1,0 +1,12 @@
+# Model checkpoints / trained model artifacts
+*.h5
+*.keras
+*.weights.h5
+*.weights
+*.ckpt
+*.pb
+*.onnx
+
+# Optional: ignore common Python/Jupyter outputs if desired
+__pycache__/
+.ipynb_checkpoints/
